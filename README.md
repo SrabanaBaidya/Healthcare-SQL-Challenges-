@@ -1,4 +1,4 @@
-# Healthcare SQL Challenges 🏥
+# Healthcare SQL Challenge 🏥
 
 Welcome to my SQL project where I tackled several healthcare-related challenges using a structured dataset involving patients, diagnoses, symptoms, and visits. The project was inspired by SQL challenges from **Matthew Steel** and **Datacoach**, designed to improve SQL proficiency in real-world scenarios.
 
